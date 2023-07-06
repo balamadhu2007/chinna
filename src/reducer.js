@@ -1,4 +1,3 @@
-
 const initialState=[]
  export default function reducer( state=initialState,action){
           const{type,payload} = action
@@ -16,3 +15,4 @@ const initialState=[]
 
 
 }
+

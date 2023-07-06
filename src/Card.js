@@ -46,3 +46,7 @@ products:state
 })
 
 export default connect(mapStateToProps,{addproduct,removeproduct})(Card)
+
+
+
+
